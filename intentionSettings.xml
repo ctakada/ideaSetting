@@ -1,0 +1,12 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Declaration/Split declaration and initialization" />
+    <ignoreAction name="JavaScript/Join subsequent variable declarations" />
+    <ignoreAction name="Java/Declaration/Split declaration" />
+    <ignoreAction name="JavaScript/Declaration/Split declaration and initialization" />
+    <ignoreAction name="JavaScript/Split declarations" />
+    <ignoreAction name="JavaScript/Wrap property names in quotes" />
+    <ignoreAction name="JavaScript/Declaration/Split declaration and move to scope start" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Remove export" />
+  </component>
+</application>

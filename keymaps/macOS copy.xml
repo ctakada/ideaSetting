@@ -1,0 +1,9 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="ctrl meta alt p" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
+</keymap>
